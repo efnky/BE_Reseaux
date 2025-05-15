@@ -4,7 +4,6 @@
 #define MAX_SOCKET 5
 #define TIMEOUT 10000
 
-//Hello
 
 mic_tcp_sock sockets[MAX_SOCKET]; // table de sockets
 
